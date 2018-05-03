@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:latest
 
 MAINTAINER Kimbro Staken version: 0.1
 
